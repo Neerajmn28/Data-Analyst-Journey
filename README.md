@@ -57,4 +57,31 @@ The analysis provides actionable insights into customer performance, helping Atl
 
 ---
 
+# Market Performance Analysis (Country vs Target)
+<img width="299" alt="Image" src="https://github.com/user-attachments/assets/5e417e61-aade-48a4-9b95-ec1d7f8e83a1" />
+
+## 📑 Project Objective
+This project aims to analyze market performance by comparing the actual net sales of 2021
+against the respective country targets for AtliQ Hardwares. The analysis provides insights into key regions meeting or underperforming relative to sales targets.
+
+## 📝 Key Findings
+- **High Underperformance:** Canada, Poland, and Spain showed the most significant sales gaps, indicating a need for market intervention.  
+- **Near-Target Performers:** Japan, Portugal, and France exhibited commendable performance despite minor deviations.  
+- **Consistent Market Gaps:** The USA and Germany have stable yet noticeable underperformance, requiring better sales strategies.  
+
+---
+
+## 🎯 Recommendations
+1. **Focus on High-Gap Markets:**  
+   Prioritize marketing and sales strategies in Canada, Poland, and Spain to regain market share.  
+
+2. **Targeted Campaigns:**  
+   Tailor marketing campaigns to high-potential regions such as the USA, Germany, and South Korea.  
+
+3. **Performance Stability:**  
+   Maintain existing strategies for near-target performers (Japan, Portugal) while exploring growth opportunities.
+
+---
+
+
 
