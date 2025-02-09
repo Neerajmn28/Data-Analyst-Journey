@@ -1,7 +1,7 @@
 # Customer Performance Analysis using ETL and Power Pivot
 
 
-## 📑 Project Objective
+## 📑 Project 1 Objective
 The objective of this project is to analyze customer performance for AtliQ Hardwares by leveraging the ETL process and Power Pivot charts. The analysis provides key insights into year-wise sales comparisons and identifies top-performing customers.
 
 ---
@@ -82,6 +82,8 @@ against the respective country targets for AtliQ Hardwares. The analysis provide
    Maintain existing strategies for near-target performers (Japan, Portugal) while exploring growth opportunities.
 
 ---
+
+## 📑 Project 2 Objective
 
 
 
