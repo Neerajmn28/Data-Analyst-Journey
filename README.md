@@ -83,7 +83,7 @@ against the respective country targets for AtliQ Hardwares. The analysis provide
 
 ---
 
-## 📑 Project 2 Objective
+## 📑 Project 2 Objective (P & L) Statement
 
 
 
