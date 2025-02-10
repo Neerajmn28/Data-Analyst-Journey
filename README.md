@@ -1,7 +1,7 @@
 # Customer Performance Analysis using ETL and Power Pivot
 
 
-## 📑 Project 1 Objective
+# 📑 Project 1 Objective
 The objective of this project is to analyze customer performance for AtliQ Hardwares by leveraging the ETL process and Power Pivot charts. The analysis provides key insights into year-wise sales comparisons and identifies top-performing customers.
 
 ---
@@ -83,7 +83,66 @@ against the respective country targets for AtliQ Hardwares. The analysis provide
 
 ---
 
-## 📑 Project 2 Objective (P & L) Statement
+# 📑Atliq Hardwares: P&L Statement Analysis (Company-wise)
 
+**📖 Project Overview**
+
+This project focuses on analyzing the Profit and Loss (P&L) statements of Atliq Hardwares at a company-wise level. The aim is to provide actionable insights that help evaluate financial performance, identify revenue streams, and highlight expense trends.
+
+Understanding and analyzing P&L statements are essential for making informed business decisions and developing strategies to improve profitability.
+
+<img width="327" alt="Image" src="https://github.com/user-attachments/assets/d04a5857-ee15-4af9-8807-1038083f8ff1" />
+
+ Here's a deeper look into its importance and impact:
+
+Performance Evaluation:
+
+* Identifies high-performing and underperforming companies or divisions.
+Helps pinpoint revenue sources and areas with cost inefficiencies.
+Resource Allocation:
+
+* Facilitates better allocation of budgets and resources based on individual company performance.
+Helps prioritize investments in areas with high potential returns.
+Profitability Insights:
+
+8 Identifies specific companies contributing most to the overall profit.
+Helps focus on improving the profitability of weaker entities.
+Tailored Strategies:
+
+* Enables targeted growth strategies based on company-specific needs.
+Provides actionable insights for operational improvements and new business initiatives.
+Risk Mitigation:
+
+* Detects financial risks within specific business units.
+Ensures that losses in one company do not go unnoticed and can be addressed promptly.
+Comparative Analysis:
+
+Allows benchmarking across different companies within the organization.
+Helps set realistic targets and identify best practices.
+
+---
+## 📑 P & L statement Analysis (Monthly Wise)
+🚀 Overview
+This project involves the comprehensive analysis of Atliq Hardwares' Profit and Loss (P&L) statements on a monthly and yearly basis. The goal is to empower the company with actionable insights to track profitability, optimize expenses, and make strategic business decisions based on reliable data.
+
+🎯 Why Monthly P&L Analysis?
+Better Trend Visibility:
+Monthly analysis reveals granular trends that are hidden in yearly statements, such as sudden expense hikes or revenue fluctuations.
+Informed Decision-Making:
+Real-time visibility into financial performance allows leaders to make quick and strategic decisions.
+Resource Allocation:
+Understanding the financial health on a monthly basis helps in effective resource planning and budgeting.
+Performance Benchmarking:
+Compare different months and identify which periods deliver better performance.
+
+📊 Business Impact
+* Identifying Cost Leaks: Pinpoint months with abnormal expense patterns.
+* Seasonal Revenue Insights: Recognize revenue peaks and plan better for lean periods.
+* Data-Driven Decisions: Provide a robust foundation for investment and cost-saving decisions.
+
+
+
+
+<img width="316" alt="Image" src="https://github.com/user-attachments/assets/a22a03a7-10e7-4c90-a501-c06def2a7c35" />
 
 
